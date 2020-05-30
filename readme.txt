@@ -7,9 +7,5 @@
 777777777
 999999999
 000000000
-<<<<<<< HEAD
 aaaaaaaaa
-=======
 ccccccccc
-bbbbbbbbb
->>>>>>> dev
